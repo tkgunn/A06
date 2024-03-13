@@ -38,3 +38,7 @@ main h3 {
 	footer p{
 		text-align:center;
 	}
+<style>
+  .italicize:hover {
+    font-style: italic;
+  }
